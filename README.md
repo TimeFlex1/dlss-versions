@@ -3,35 +3,35 @@
 
 | version            | source  |
 | :-------:          | :------------: |
-| 1.0.0.0            | UNKNOWN |
-| 1.0.9.0            | 3DMark DLSS Test |
-| 1.0.11.0           | Metro Exodus & Final Fantasy 15 |
-| 1.0.17.0           | Shadow of the Tomb Raider |
-| 2.0.34.0           | Control |
-| 2.1.16.0           | Minecraft Win10 |
-| 2.1.19.0           | Death Stranding |
-| 2.1.29.0           | 3DMark DLSS Test v2 |
-| 2.1.39.0           | Cyberpunk 2077 & Ghostrunner |
-| 2.1.50.0           | System Shock Demo |
-| 2.1.51.0           | F1 2020 |
-| 2.1.52.0           | Fortnite |
-| 2.1.53.0           | UNKNOWN |
-| 2.1.55.0           | Crysis Remastered & Metro Exodus Enhanced |
-| 2.1.58.0           | Call of Duty MW |
-| 2.1.63.0           | No Man's Sky |
-| 2.1.66.0           | Doom Eternal |
-| 2.2.6.0            | Rainbow Six Siege |
-| 2.2.9.0            | UE4/5 Plugin |
-| 2.2.10.0           | Rust |
-| 2.2.11.0           | Back 4 Blood & Unity 2022.1.0b3|
-| 2.2.16.0           | [Cyberpunk 2077 mod](https://web.archive.org/web/20210821020030/https://www.nexusmods.com/cyberpunk2077/mods/3037) |
-| 2.2.18.0           | UE4/5 Plugin |
-| 2.3.1.0            | UE4/5 Plugin |
-| 2.3.2.0            | Sword and Fairy 7, Rise of the Tomb Raider |
-| 2.3.3.0            | Swords of Legends Online |
-| 2.3.4.0            | Jurassic World Evolution 2 & God of War |
-| 2.3.5.0            | Horizon Zero Dawn |
-| 2.3.7.0            | Dying Light 2 |
+| 1.0.0              | UNKNOWN |
+| 1.0.9              | 3DMark DLSS Test |
+| 1.0.11             | Metro Exodus & Final Fantasy 15 |
+| 1.0.17             | Shadow of the Tomb Raider |
+| 2.0.34             | Control |
+| 2.1.16             | Minecraft Win10 |
+| 2.1.19             | Death Stranding |
+| 2.1.29             | 3DMark DLSS Test v2 |
+| 2.1.39             | Cyberpunk 2077 & Ghostrunner |
+| 2.1.50             | System Shock Demo |
+| 2.1.51             | F1 2020 |
+| 2.1.52             | Fortnite |
+| 2.1.53             | UNKNOWN |
+| 2.1.55             | Crysis Remastered & Metro Exodus Enhanced |
+| 2.1.58             | Call of Duty MW |
+| 2.1.63             | No Man's Sky |
+| 2.1.66             | Doom Eternal |
+| 2.2.6              | Rainbow Six Siege |
+| 2.2.9              | UE4/5 Plugin |
+| 2.2.10             | Rust |
+| 2.2.11             | Back 4 Blood & Unity 2022.1.0b3|
+| 2.2.16             | [Cyberpunk 2077 mod](https://web.archive.org/web/20210821020030/https://www.nexusmods.com/cyberpunk2077/mods/3037) |
+| 2.2.18             | UE4/5 Plugin |
+| 2.3.1              | UE4/5 Plugin |
+| 2.3.2              | Sword and Fairy 7, Rise of the Tomb Raider |
+| 2.3.3              | Swords of Legends Online |
+| 2.3.4              | Jurassic World Evolution 2 & God of War |
+| 2.3.5              | Horizon Zero Dawn |
+| 2.3.7              | Dying Light 2 |
 | 2.3.9              | Chorus |
 | 2.3.11             | NVIDIA SDK |
 | 2.4.0              | DLSS SDK, F1 2022 |
