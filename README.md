@@ -56,6 +56,11 @@
 | 3.1.30 CL 33090507 | NVIDIA SDK (Slightly newer build date than the previous 3.1.30 (CL 33090507 vs 33088933)) |
 | 3.5.0              | NVIDIA UE5 Plugin |
 | 3.5.10             | NVIDIA UE5 Plugin |
+| 3.6.0              | Source: Naraka Bladepoint |
+| 3.7.0              | Source: NVIDIA SDK |
+| 3.7.10             | Source: Diablo IV |
+| 3.7.20             | Source: NVIDIA Driver (DirectSR) |
+| 3.8.10             | Source: NVIDIA Driver (DirectSR) |
 
 [2.1.29.0 vs 2.2.9.0 1](https://imgsli.com/NTk2NjE)
 [2.1.29.0 vs 2.2.9.0 2](https://imgsli.com/NTk2NjI)
