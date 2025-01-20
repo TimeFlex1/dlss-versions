@@ -1,3 +1,6 @@
+Latest versions are in Releases
+
+
 # DLSS versions
  DLSS collection - nvngx_dlss.dll files
 
